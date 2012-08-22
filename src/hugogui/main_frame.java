@@ -15,6 +15,10 @@ import javax.swing.JSplitPane;
 
 public class main_frame extends JFrame {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private JPanel contentPane;
 
 	/**
